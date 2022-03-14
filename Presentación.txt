@@ -1,0 +1,3 @@
+Hola, mi nombre es Adriana y soy Diseñadora Web freelance desde hace tres años.
+Aunque ya vengo trabajando con html5, css3 y WordPress, me anoté en el curso para actualizar conocimientos y tratar de aprender PHP, ya que usar WordPress sin saber PHP me limita mucho, sobretodo cuando me piden alguna función específica.
+Saludos a todos y nos vemos en el curso!  
